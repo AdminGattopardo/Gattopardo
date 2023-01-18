@@ -2,7 +2,7 @@
 title: "{Gattopardo}"
 email: gattopardodojo@gmail.com
 description: Impara a codificare come il Gattopardo- rapido, agile e sempre al passo con i tempi!
-baseurl: "/Gattopardo" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
